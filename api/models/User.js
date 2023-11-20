@@ -1,1 +1,1 @@
-//TODO: User database 
+//TODO: User database, login and authentication information 

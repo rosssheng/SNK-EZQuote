@@ -1,4 +1,4 @@
-//TODO: Quote databaes
+//TODO: Quote database
 
 const mongoose = require('mongoose');
 
